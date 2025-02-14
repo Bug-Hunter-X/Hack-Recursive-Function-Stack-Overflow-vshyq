@@ -1,0 +1,1 @@
+This repository demonstrates a stack overflow error in a recursive factorial function written in Hack.  The bug.hack file contains the erroneous code, while bugSolution.hack provides a solution using iteration to avoid the stack overflow.  This example highlights a common issue when dealing with recursion and large input sizes.
